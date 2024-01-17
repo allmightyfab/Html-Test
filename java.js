@@ -6,5 +6,7 @@
     num= prompt("What is your favorite number?")
         num=parseInt(num);
 count =count+num
-console.log("so you like "+pie)
+
+
 console.log(count)
+const (<p>So you like ${likes}</p>)
