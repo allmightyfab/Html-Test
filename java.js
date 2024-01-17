@@ -8,5 +8,4 @@
 count =count+num
 
 
-console.log(count)
-document.write(likes)
+console.log("So you like" +pie)
