@@ -9,4 +9,5 @@ count =count+num
 
 
 console.log(count)
-const (<p>So you like ${likes}</p>)
+const likes (<p>So you like ${likes}</p>)
+document.write(likes)
