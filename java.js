@@ -8,4 +8,4 @@
 count =count+num
 
 
-console.log("So you like" +pie)
+console.log("So you like" + likes)
