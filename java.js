@@ -5,5 +5,5 @@
     num= prompt("What is your favorite number?")
         num=parseInt(num);
 
-
+console.log("so you like "+pie)
 
